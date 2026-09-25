@@ -1,2 +1,3 @@
-# -AI_Logic_Coding_questions
-Technical Assessment coding questions
+# AI Logic Coding Questions
+
+Technical assessment coding questions and their Python solutions.
